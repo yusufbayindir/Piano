@@ -8,7 +8,6 @@ Welcome to the Virtuoso Piano App repository! This app provides an interactive a
 
 ## Features
 - **Realistic Piano Sounds**: Each key produces a sound akin to a real piano note.
-- **Multi-Touch Support**: Capable of registering multiple notes played simultaneously.
 - **User-Friendly Interface**: A simple and intuitive interface for easy navigation and usage.
 - **Adaptive Key Width**: Designed to accommodate different screen sizes for a seamless experience.
 
